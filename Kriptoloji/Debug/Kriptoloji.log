@@ -1,0 +1,3 @@
+﻿  MatrixInverse.cpp
+C:\Users\Abdullah\source\repos\Kriptoloji\Kriptoloji\MatrixInverse.cpp(105,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Kriptoloji.vcxproj -> C:\Users\Abdullah\source\repos\Kriptoloji\Debug\Kriptoloji.exe
