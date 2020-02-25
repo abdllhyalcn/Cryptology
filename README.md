@@ -1,2 +1,2 @@
-# Kriptoloji
- Traditional Kriptology Cipher Algorithms Added for Turkish Characters
+# Cryptology
+ Traditional Cryptology Cipher Algorithms Added for Turkish Characters
